@@ -29,3 +29,12 @@ protocol: https://
 Hostname: www.flipkart.com
 path: books/pr
 Querystring: pr?sid=bks&web=app
+
+DNS - Domain Name System
+DNS is like a directory which links the domain name to the IP address of the server 
+= google.com<> 216.58.197.78
+= facebook.com <> 173.252.89.132
+every server must have a unique IP address which clients can use to connect with it over the internet.
+= this ip address is mapped to a human friendly name it easy to remember.
+The directory is maintained by "name servers". programs can excahnge the domain - name for the 
+registered ip address by requesting the name server . This is called a "DNS lookup"
