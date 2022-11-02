@@ -32,6 +32,10 @@ Querystring: pr?sid=bks&web=app
 
 DNS - Domain Name System
 DNS is like a directory which links the domain name to the IP address of the server 
+
+2.4 Your computer connected to your connected to your connected to your ISP , connected to other ISP's finally
+connected to another computer(the server)
+a program can send a request on a network on a network by mentioing the IP of the other computer and the network (meaning the entier  systems of harware and software) will route your request to the computer that has that ip
 = google.com<> 216.58.197.78
 = facebook.com <> 173.252.89.132
 every server must have a unique IP address which clients can use to connect with it over the internet.
