@@ -42,3 +42,8 @@ every server must have a unique IP address which clients can use to connect with
 = this ip address is mapped to a human friendly name it easy to remember.
 The directory is maintained by "name servers". programs can excahnge the domain - name for the 
 registered ip address by requesting the name server . This is called a "DNS lookup"
+
+2.5 server - web server 
+= a web server can listen to request and respond back on the same connection
+= very commonly , a server is also used to refer to the actual computer (also called a
+host) on which the server software is installed.
