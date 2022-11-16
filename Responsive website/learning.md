@@ -1,1 +1,3 @@
 " main tag " : HTML easier to read and help with Search Engine Optimization (SEO) and accessibility.
+" img tag " : for adding image without closing tag
+eg: <img src = "https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg">
