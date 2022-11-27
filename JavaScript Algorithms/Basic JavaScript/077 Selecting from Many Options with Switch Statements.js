@@ -15,4 +15,5 @@ function caseInSwitch(val) {
     return "delta";
     break;
   }
+}
     
