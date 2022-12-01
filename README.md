@@ -1,2 +1,2 @@
-# BSCCS2003P_Modern_Application_Development_I---Project
+# BSCCS2003P MAD 1 LAB
 Modern Application Development I - Project
